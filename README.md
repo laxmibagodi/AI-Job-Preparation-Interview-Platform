@@ -12,7 +12,6 @@ An intelligent, AI-powered interview preparation and job interview platform that
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)
 ![Gemini API](https://img.shields.io/badge/Gemini-API-blue?logo=google)
 
-**[Live Demo](#) • [Documentation](#) • [API Docs](#api-documentation) • [Report Issue](#)**
 
 </div>
 
