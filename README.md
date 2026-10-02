@@ -643,6 +643,5 @@ For support, email your.email@example.com or open an issue on GitHub.
 
 **[⬆ back to top](#-ai-job-preparation--interview-platform)**
 
-Made with ❤️ by [Your Name]
 
 </div>
